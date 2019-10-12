@@ -17,3 +17,76 @@ html { box-sizing: border-box; }
 body {
     background-color: #bdc3c7;
 }
+
+.profil {
+    width: 250px;
+    background-color: #31363b;
+    margin: 0 auto;
+    
+}
+.foto {
+    width: 250px;
+    position: relative;
+}
+
+}
+.logo {
+    position: absolute;
+    left: 120px;
+    top: 150px;    
+}
+
+
+
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+.obsah {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #bdc3c7;
+    padding: 1.5rem;
+}
+.odkazy {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+
+}
+ul {
+    margin: 0;
+    padding: 0;
+}
+li {
+display: inline-block;
+padding: 0;
+margin: 0;
+}
+a {
+    color: #bdc3c7;
+    text-decoration: none;
+    padding: 15px 25px;
+    display: inline-block;
+    text-transform: uppercase;
+    font-size: 1em;
+    
+}
+.portfolio:hover {
+    background-color: #e74c3c;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.facebook:hover {
+    background-color: #3b5998;
+    width: 50%;
+    margin: 0;
+    padding: 0;
+}
+.twitter:hover {
+    background-color: #1da1f2;
+    width: 50%;
+    margin: 0;
+    padding: 0;
+}
