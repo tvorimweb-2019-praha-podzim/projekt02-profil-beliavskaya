@@ -31,9 +31,12 @@ body {
 }
 .logo {
     position: absolute;
+    background: #b92e81;
+    opacity: 80%;
     left: 175px;
-    top: 140px;   
-     
+    top: 140px;  
+    border-radius: 50%;  
+    box-shadow: 0px 1px 25px 4px #000000;  
 }
 /*.circle {
     background: #b92e81;
